@@ -14,10 +14,10 @@ This file contains the content to be displayed for each instance of the Movie() 
 
 This file contains the HTML code for the web page as well as the functions to create the movie tiles and the HTML page.
 
-**create_movie_tiles_content(movies)
+**create_movie_tiles_content(movies)**
 
 This function takes in the list of Movie objects and creates the HTML content to display them
 
-**open_movies_page(movies)
+**open_movies_page(movies)**
 
 This function creates and opens the HTML page 
