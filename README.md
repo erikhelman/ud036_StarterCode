@@ -1,6 +1,8 @@
 # Movie Website
 
-The Movie Website project is several Python modules that take in movie information and output an HTML file to display that information, such as the director, year of release and the movie's trailer. The program can be executed by running entertainment_center.py
+The Movie Website project is several Python modules that take in movie information and output an HTML file to display that information, such as the director, year of release and the movie's trailer. 
+
+To generate and open the web page, run "python entertainment_center.py" from a terminal command line
 
 # media.py
 
